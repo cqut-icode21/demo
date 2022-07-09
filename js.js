@@ -38,7 +38,6 @@ function prePage(){
         firstLink();
         preLink();
         nextLink();
-        lastLink();
     }
 
 }
